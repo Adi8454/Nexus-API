@@ -1,3 +1,5 @@
+<img width="1365" height="562" alt="image" src="https://github.com/user-attachments/assets/49557d01-91af-487f-8680-c6668934ac78" />
+
 # Nexus API - Backend Developer Internship Assignment
 
 A scalable REST API with JWT Authentication, Role-Based Access Control (RBAC), and a responsive React frontend.
